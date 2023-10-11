@@ -1,0 +1,4 @@
+Population : 67,897,000
+Capital: Paris
+Largest City: Paris
+Continent: Europe
