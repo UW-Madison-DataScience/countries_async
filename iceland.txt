@@ -1,0 +1,4 @@
+Population : 391,810
+Capital: Reykjavík
+Largest City: Reykjavík
+Continent: Europe
